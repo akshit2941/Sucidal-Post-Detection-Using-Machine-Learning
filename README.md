@@ -56,7 +56,7 @@ The dataset used for this project is sourced from Kaggle: [SuicideWatch Dataset]
 ## Training Process
 
 1. **Data Splitting:**  
-   The dataset is split into 80% training and 20% validation data.
+   The Dataset is split into 80% training and 20% validation data.
 2. **Feature Extraction:**
 
    - Tokenization using TensorFlow's `Tokenizer()`.
