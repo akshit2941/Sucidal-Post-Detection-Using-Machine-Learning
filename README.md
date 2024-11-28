@@ -94,7 +94,7 @@ The project provides two interfaces:
 - **Streamlit (Frontend):**
 
   ```bash
-  python app.py
+  streamlit run .\app.py
   ```
 
   Opens a web-based interface where you can input text and view predictions.
